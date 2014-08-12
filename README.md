@@ -27,11 +27,11 @@ Functioninality:
 
 Requirements:
 -
--GPS enabled mobile device
--Android operating honeycomb or later
--Airtime or data
--Phone must be functional
--Phone must have suffiecent power to last for the duration of the activity(request to pick up)
--Must be in a area with data connectivity
--Must meet the basic needs to operate the server
--Must be no down time
+- GPS enabled mobile device
+- Android operating honeycomb or later
+- Airtime or data
+- Phone must be functional
+- Phone must have suffiecent power to last for the duration of the activity(request to pick up)
+- Must be in a area with data connectivity
+- Must meet the basic needs to operate the server
+- Must be no down time
