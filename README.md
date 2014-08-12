@@ -8,6 +8,8 @@ Once one taxi driver has accepted the request, the request will be deactivated f
 
 
 Functioninality:
+-
+
   
 - Service functions through a mobile application
 - Application is connected to the database
