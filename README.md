@@ -6,7 +6,9 @@ Creating a system that involves a centralised database sending out instructions 
 The database will store gps location of the user requesting for a pick up. This information will be populated to all taxi drivers in the nearest proximity of the user.
 Once one taxi driver has accepted the request, the request will be deactivated from other driver and a countdown time will be activated on the user's device based on the estimated time computed from GoogleMap api, that will take to the driver to reach his location.
 
-Functioninality:
+
+  Functioninality:
+  
 - Service functions through a mobile application
 - Application is connected to the database
 - App must be installed on both customer and drivers mobile device
