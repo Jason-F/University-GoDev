@@ -1,0 +1,17 @@
+-Login - User Basic
+-
+-As a client on the system.
+-I want the ability to login to the system.
+-So that I can get access to my information.
+-
+-Acceptance Criteria:
+-
+-Accept User Name and password.
+-Validate User details.
+-Generate success and failure message, after that proceed with relevant action.
+-
+Definition of Done:
+-
+-Approved by team Leader.
+-All criteria items are there and test's pass.
+-Able to show feature.
