@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Taxi Web Viewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Welcome To The Taxi App</string>
+   <string name="browse">Browse</string>
+
+</resources>
